@@ -1,0 +1,29 @@
+body {
+  background-color: lightyellow;
+}
+
+p {
+  color: #1A1A2E;
+  font-size: 16px;
+}
+
+.highlight {
+  background-color: #FBEFD3;
+  padding: 8px;
+}
+
+#intro {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.important {
+  color: red;
+  font-weight: bold;
+}
+
+#page-header {
+  background-color: #1E2761;
+  padding: 16px;
+}
+
